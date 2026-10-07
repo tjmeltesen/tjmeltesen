@@ -1,16 +1,19 @@
-## Hi there 👋
+<!-- GitSkins theme: GitHub Dark (free). Public profile widgets. -->
 
-<!--
-**tjmeltesen/tjmeltesen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Thomas (TJ) Meltesen
 
-Here are some ideas to get you started:
+[![GitSkins profile](https://www.gitskins.com/api/section/hero?username=tjmeltesen&theme=github-dark&style=aura)](https://github.com/tjmeltesen)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+
+![GitHub projects](https://www.gitskins.com/api/section/projects?username=tjmeltesen&theme=github-dark)
+
+## Languages
+
+![GitHub language stack](https://www.gitskins.com/api/section/stack?username=tjmeltesen&theme=github-dark)
+
+## GitHub activity
+
+![GitHub stats](https://www.gitskins.com/api/section/stats?username=tjmeltesen&theme=github-dark)
+
+<sub>Profile visuals by [GitSkins](https://www.gitskins.com/).</sub>
